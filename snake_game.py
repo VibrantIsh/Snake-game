@@ -1,3 +1,5 @@
+#--------------only 50% done till now----------
+
 import pygame
 import sys
 from pygame.math import Vector2
