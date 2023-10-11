@@ -119,5 +119,5 @@ while True:
     screen.fill((34, 34, 34)) 
     game.draw_elements()
     pygame.display.update()
-    clock.tick(10)  
+    clock.tick(60)  
 
