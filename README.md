@@ -10,7 +10,7 @@ A classic Snake Game implemented in Python using Pygame. Control the snake, coll
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/Jugglerish/snake-game.git
    ```
 
 2. Install Python and Pygame if not already installed.
