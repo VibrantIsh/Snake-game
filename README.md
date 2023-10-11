@@ -2,6 +2,9 @@
 
 A classic Snake Game implemented in Python using Pygame. Control the snake, collect fruits, and try to beat your high score!
 
+![image](https://github.com/Jugglerish/Snake-game/assets/144150492/62f8a1ff-2ca4-4991-b0c3-a35cec1af074)
+
+
 ## How to Play
 
 1. Clone the repository:
@@ -34,8 +37,3 @@ Enjoy the game!
 - Adjustable game speed.
 - Customize themes by modifying code.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to adjust this further to make it even more concise or add any necessary details specific to your game.
